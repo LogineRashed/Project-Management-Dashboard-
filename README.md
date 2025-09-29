@@ -1,4 +1,4 @@
-# 📊 Project Management Dashboard  
+#  Project Management Dashboard  
 
 A comprehensive **Project Management Dashboard** built to track and analyze multiple projects, providing insights into cost reduction, income generation, process improvement, and working capital.  
 
@@ -6,7 +6,7 @@ This dashboard helps stakeholders and managers quickly evaluate project performa
 
 ---
 
-## 🚀 Features  
+##  Features  
 
 - **High-Level KPIs**  
   - Cost Reduction: `195M`  
@@ -36,7 +36,7 @@ This dashboard helps stakeholders and managers quickly evaluate project performa
 
 ---
 
-## 📂 Dashboard Sections  
+##  Dashboard Sections  
 
 1. **Key Metrics (KPIs)** – Quick overview of financial and operational impact.  
 2. **Project Benefit & Cost Charts** – Regional and category-wise breakdowns.  
